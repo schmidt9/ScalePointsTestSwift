@@ -25,14 +25,14 @@
                                 <subviews>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="pZd-4X-Wwe">
                                         <rect key="frame" x="0.0" y="0.0" width="191" height="30"/>
-                                        <state key="normal" title="Button"/>
+                                        <state key="normal" title="Original"/>
                                         <connections>
                                             <action selector="buttonTouchUpInside:" destination="BYZ-38-t0r" eventType="touchUpInside" id="llF-ZO-pzX"/>
                                         </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="5Qy-Nz-eGl">
                                         <rect key="frame" x="191" y="0.0" width="191" height="30"/>
-                                        <state key="normal" title="Button"/>
+                                        <state key="normal" title="Scaled"/>
                                         <connections>
                                             <action selector="buttonTouchUpInside:" destination="BYZ-38-t0r" eventType="touchUpInside" id="m6v-fx-gxk"/>
                                         </connections>
